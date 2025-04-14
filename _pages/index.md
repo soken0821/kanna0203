@@ -29,7 +29,8 @@ permalink: /
 ## 俺らの写真 in Inoda's house.
 ![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464103_0.jpg)
 
-<img src="https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464095.jpg">
+<img src="https://csshtml.work/wp-content/uploads/1.jpg">
+![image](https://csshtml.work/wp-content/uploads/1.jpg)
 ---
 
 
