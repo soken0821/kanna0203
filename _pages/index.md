@@ -18,11 +18,15 @@ permalink: /
 - 将来の夢:おしゃれで静かなカフェオーナー、家庭科の先生
 - 彼氏の有無:有[インスタ](https://www.instagram.com/_.soken21?igsh=YWZyc2R5OG10Nmgw&utm_source=qr)
 
-## 俺らの写真 in Disney
+## 俺らの写真 in Disney.
 ![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464095.jpg)
+## 俺らの写真 in Tokyo.
 ![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464098.jpg)
+## 包茎
 ![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464100.jpg)
+## 俺らの写真 in Osaka.
 ![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464101_0.jpg)
+## 俺らの写真 in Inoda's house.
 ![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464103_0.jpg)
 
 ---
