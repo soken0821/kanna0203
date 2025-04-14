@@ -3,9 +3,12 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
-いのだ
-
-inono
+# 壮研の自己紹介
+- 年齢:18
+- 出身:滋賀
+- 趣味:特になし
+- 将来の夢:経営者
+- 彼女の有無:有[インスタ](https://www.instagram.com/_.kan101?igsh=MWRwOW42M2ZhNW80cA==)
 
 
 
