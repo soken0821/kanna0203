@@ -17,7 +17,10 @@ permalink: /
 - 趣味:おれ
 - 将来の夢:おしゃれで静かなカフェオーナー、家庭科の先生
 - 彼氏の有無:有[インスタ](https://www.instagram.com/_.soken21?igsh=YWZyc2R5OG10Nmgw&utm_source=qr)
-- 
+
+## 俺らの写真 in Disney
+![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464095.jpg)
+  
 ---
 
 以下テンプレート
