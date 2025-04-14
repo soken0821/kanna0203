@@ -19,7 +19,7 @@ permalink: /
 - 彼氏の有無:有[インスタ](https://www.instagram.com/_.soken21?igsh=YWZyc2R5OG10Nmgw&utm_source=qr)
 
 ## 俺らの写真 in Disney.
-![image](https://drive.google.com/file/d/1lNYqD7fWQOQFu5GR5zaiJSOl67SrE_VB/view?usp=drive_link)
+![image](/kanna0203/assets/images/)
 ## 俺らの写真 in Tokyo.
 ![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464098.jpg)
 ## 包茎
