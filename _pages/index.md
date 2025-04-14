@@ -21,16 +21,14 @@ permalink: /
 ## 俺らの写真 in Disney.
 ![image](/kanna0203/assets/images/S__5464095.jpg)
 ## 俺らの写真 in Tokyo.
-![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464098.jpg)
+![image](/kanna0203/assets/images/S__5464098.jpg)
 ## 包茎
-![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464100.jpg)
+![image](/kannna0203/assets/images/S__5464100.jpg)
 ## 俺らの写真 in Osaka.
-![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464101_0.jpg)
-## 俺らの写真 in Inoda's house.
-![image](https://github.com/soken0821/kanna0203/blob/main/assets/images/S__5464103_0.jpg)
+![image](/kanna0203/assets/images/S__5464101_0.jpg)
+## 俺らの写真 in Inoinodan.
+![image](/kanna0203/assets/images/S__5464103_0.jpg)
 
-<img src="https://csshtml.work/wp-content/uploads/1.jpg">
-![image](https://csshtml.work/wp-content/uploads/1.jpg)
 ---
 
 
