@@ -1,5 +1,5 @@
 ---
-title: "紹介"
+title: "1.23"
 author: default
 permalink: /
 ---
