@@ -1,4 +1,4 @@
-title: "GitHubPages勉強会"
+title: ""
 
 lang: ja
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -25,7 +25,7 @@ defaults:
       path: ""
     values:
       header:
-        overlay_image: /assets/images/header.png
+        overlay_image: /assets/images/R.jpg
         overlay_filter: 0.5
   # pages
   - scope:
