@@ -23,7 +23,7 @@ permalink: /
 ## 俺らの写真 in Tokyo.
 ![image](/kanna0203/assets/images/S__5464098.jpg)
 ## 包茎
-![image](/kannna0203/assets/images/S__5464100.jpg)
+![image](/kanna0203/assets/images/S__5464100.jpg)
 ## 俺らの写真 in Osaka.
 ![image](/kanna0203/assets/images/S__5464101_0.jpg)
 ## 俺らの写真 in Inoinodan.
